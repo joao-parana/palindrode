@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # palindrode [![Build Status](https://secure.travis-ci.org/joao_parana/palindrode.png?branch=master)](http://travis-ci.org/joao_parana/palindrode)
 
 The best project ever.
@@ -25,3 +26,9 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2013 joao-parana  
 Licensed under the MIT license.
+=======
+palindrode
+==========
+
+palindrode serve para testar o GRUNT e o Travis IC
+>>>>>>> 84a3b1f53063ee1cd393dfba7c4249c887461839
