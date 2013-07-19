@@ -4,6 +4,8 @@ palindrode
 
 ### palindrode serve para testar o GRUNT e o Travis IC
 
+    git add -A . ; git commit -a  -m "versão inicial" ; git push -u origin master
+
 # palindrode [![Build Status](https://secure.travis-ci.org/joao_parana/palindrode.png?branch=master)](http://travis-ci.org/joao_parana/palindrode)
 
 The best project ever.
